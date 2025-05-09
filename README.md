@@ -16,6 +16,6 @@ Genomic and transcriptomic data used in this study is access controlled and must
 
 ## Reference
 
-If you use (part of) the code, please cite use:
+If you use (part of) the code, please cite our work:
 
 Robbrecht DGJ, Salhi Y, Martens JWM, Aarts MJB, Hamberg P, van der Heijden MS, Voortman J, Mehra N, Westgeest HM, de Wit R, Debets R, Boormans JL, Nakauma-González JA. Novel molecular biomarkers to guide treatment-decision making in metastatic urothelial cancer - A patient cohort analysis. *European Urology Oncology* (2025), <https://doi.org/10.1016/j.euo.2025.04.007>
